@@ -16,3 +16,16 @@
     height: 65px;
 }
 
+.signature{
+    color: grey;
+    font-weight: bolder;
+}
+
+#signature-name{
+    color: rgb(87, 184, 216);
+}
+
+#signature-date{
+    font-size: small;
+    font-weight: normal;
+}
